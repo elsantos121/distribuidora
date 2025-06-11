@@ -1,3 +1,4 @@
+#esto lo hizo Nicolas Fernandez
 class Pago:
     def seleccionar_pago(self):
         print("\nMétodos de pago:")
