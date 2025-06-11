@@ -1,4 +1,4 @@
-#hecho por santiago luna
+#hecho por Giuliano y santiago luna
 from usuarios import Usuarios
 from catalogo import Catalogo
 from pago import Pago
