@@ -1,6 +1,6 @@
 #hecho por Giuliano y santiago luna
 from usuarios import Usuarios
-from catalogo import Catalogo
+from catalogo import Catalo
 from pago import Pago
 
 class Distribuidora:
