@@ -6,7 +6,7 @@ from pago import Pago
 class Distribuidora:
     def __init__(self):
         self.usuarios = Usuarios()
-        self.catalogo = Catalogo()
+        self.catalogo = catalogo()
         self.pago = Pago()
 
     def menu(self):

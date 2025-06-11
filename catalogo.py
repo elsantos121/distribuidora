@@ -1,4 +1,4 @@
-class Catalogo:
+class catalogo:
     def __init__(self):
         self.catalogo = {
             "Comida": ["Arroz", "Fideos", "Pan", "Queso", "Carne"],
