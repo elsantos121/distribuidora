@@ -1,7 +1,9 @@
 # distribuidora
 un trabajo grupal para la upc en python de un sistema de usuario de una distribuidora con un menu para mejor acceso
 
-- 11/06/2025
+<h2>link de chat gpt:</h2>
+https://chatgpt.com/share/6849f7f6-7ad4-800b-a8d9-9359381c4500
+
 
 # historia de usuario
 Santiago Luna encargado de: Usuarios Modulo #1
