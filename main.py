@@ -1,7 +1,7 @@
 #hecho por Giuliano y santiago luna
 #fecha 11-06-25
 from usuarios import Usuarios
-from catalogo import Catalo
+from catalogo import catalogo
 from pago import Pago
 
 class Distribuidora:
