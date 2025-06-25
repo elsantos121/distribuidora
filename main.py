@@ -1,4 +1,4 @@
-#hecho por Giuliano y santiago luna
+#hecho por Santiago Luna y Giuliano Capetto
 #fecha 11-06-25
 from usuarios import Usuarios
 from catalogo import catalogo
